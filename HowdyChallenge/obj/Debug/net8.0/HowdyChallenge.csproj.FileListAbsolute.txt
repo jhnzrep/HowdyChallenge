@@ -1,0 +1,17 @@
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\HowdyChallenge.exe
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\HowdyChallenge.deps.json
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\HowdyChallenge.runtimeconfig.json
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\HowdyChallenge.dll
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\HowdyChallenge.pdb
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.csproj.AssemblyReference.cache
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.AssemblyInfoInputs.cache
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.AssemblyInfo.cs
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.csproj.CopyComplete
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.dll
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\refint\HowdyChallenge.dll
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.pdb
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\HowdyChallenge.genruntimeconfig.cache
+C:\Users\jcoyn\Documents\HowdyChallenge\HowdyChallenge\obj\Debug\net8.0\ref\HowdyChallenge.dll

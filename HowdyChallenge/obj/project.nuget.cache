@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rAc9cNZLB1Rn3y/jMxbM7V0FAgl+Q0NUnnfE5i209dQy2ahNr0Ud+18HZdqpJeZgynbOgDVAoO/o5WVfATOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcoyn\\Documents\\HowdyChallenge\\HowdyChallenge\\HowdyChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcoyn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
